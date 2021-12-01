@@ -461,6 +461,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | API | Description | Open/Trial |
 | --- | ----------- | ---- |
 | [**Aadhaar Bridge**](https://www.aadhaarbridge.com/) | Aadhaar is a 12-digit unique identification number issued by the Indian government to every individual resident of India. API allows you to authenticate and perform ekYC and eSign using Aadhar. | 💸 |
+| [**Bruzu**](https://bruzu.com) |  Dynamically generate images with a URL string. Automate Image production Generate tons of Image variants with API, Integrations or nocode sheet. | **N/A** |
 | [**Mozilla Addons**](https://addons-server.readthedocs.io/en/latest/topics/api/index.html) | Mozilla's catalogue of addons for Firefox-compatible web browsers. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Bhagavad Gita**](https://bhagavadgita.io/) | Bhagavad Gita in various languages. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Breaking Bad Quotes**](https://breakingbadquotes.xyz/) | A simple API to retrieve some quotes of Breaking Bad, bitch! | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
@@ -480,6 +481,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Icanhazepoch**](https://icanhazepoch.com) | Get Epoch time. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**Icanhazip**](https://major.io/icanhazip-com-faq/) | IP Address API. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |
 | [**Image-Charts**](https://www.image-charts.com) | 1 URL = 1 Chart: Get a chart image in response to a URL GET or POST request. A drop-in-replacement for the deprecated Google Image Charts. | **N/A** |
+
 | [**IP Sidekick**](https://ipsidekick.com) | IP Sidekick is an API that returns information about an IP address. You can use it to customize your content based on the visitor's location or display their country. | **N/A** |
 | [**JSONbin.io**](https://jsonbin.io/api-reference) | Free [JSON](https://en.wikipedia.org/wiki/JSON) data storage service, ideal for small scale web apps, website, mobile apps. | **N/A** |
 | [**Judge0 API**](https://api.judge0.com/) | Compile and run source code. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
